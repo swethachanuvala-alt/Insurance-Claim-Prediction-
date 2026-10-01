@@ -1,4 +1,4 @@
-# ClaimSense - Insurance Claim Prediction (Streamlit)
+# ClaimSense - Insurance Claim Prediction 
 
 Multipage Streamlit app for the XGBoost insurance-claim model.
 
